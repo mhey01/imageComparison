@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+    /* display: block; */
+}
+
+h1 {
+    text-align: center;
+}
+
+#vid {
+    display: block;
+    margin: 50px auto;
+}
